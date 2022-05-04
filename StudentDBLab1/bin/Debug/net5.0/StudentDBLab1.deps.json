@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "StudentDBLab1/1.0.0": {
+        "runtime": {
+          "StudentDBLab1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentDBLab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

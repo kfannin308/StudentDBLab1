@@ -1,0 +1,16 @@
+C:\Users\kfannin\source\repos\StudentDBLab1\StudentDBLab1\bin\Debug\net5.0\StudentDBLab1.exe
+C:\Users\kfannin\source\repos\StudentDBLab1\StudentDBLab1\bin\Debug\net5.0\StudentDBLab1.deps.json
+C:\Users\kfannin\source\repos\StudentDBLab1\StudentDBLab1\bin\Debug\net5.0\StudentDBLab1.runtimeconfig.json
+C:\Users\kfannin\source\repos\StudentDBLab1\StudentDBLab1\bin\Debug\net5.0\StudentDBLab1.runtimeconfig.dev.json
+C:\Users\kfannin\source\repos\StudentDBLab1\StudentDBLab1\bin\Debug\net5.0\StudentDBLab1.dll
+C:\Users\kfannin\source\repos\StudentDBLab1\StudentDBLab1\bin\Debug\net5.0\StudentDBLab1.pdb
+C:\Users\kfannin\source\repos\StudentDBLab1\StudentDBLab1\obj\Debug\net5.0\StudentDBLab1.csproj.AssemblyReference.cache
+C:\Users\kfannin\source\repos\StudentDBLab1\StudentDBLab1\obj\Debug\net5.0\StudentDBLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kfannin\source\repos\StudentDBLab1\StudentDBLab1\obj\Debug\net5.0\StudentDBLab1.AssemblyInfoInputs.cache
+C:\Users\kfannin\source\repos\StudentDBLab1\StudentDBLab1\obj\Debug\net5.0\StudentDBLab1.AssemblyInfo.cs
+C:\Users\kfannin\source\repos\StudentDBLab1\StudentDBLab1\obj\Debug\net5.0\StudentDBLab1.csproj.CoreCompileInputs.cache
+C:\Users\kfannin\source\repos\StudentDBLab1\StudentDBLab1\obj\Debug\net5.0\StudentDBLab1.dll
+C:\Users\kfannin\source\repos\StudentDBLab1\StudentDBLab1\obj\Debug\net5.0\refint\StudentDBLab1.dll
+C:\Users\kfannin\source\repos\StudentDBLab1\StudentDBLab1\obj\Debug\net5.0\StudentDBLab1.pdb
+C:\Users\kfannin\source\repos\StudentDBLab1\StudentDBLab1\obj\Debug\net5.0\StudentDBLab1.genruntimeconfig.cache
+C:\Users\kfannin\source\repos\StudentDBLab1\StudentDBLab1\obj\Debug\net5.0\ref\StudentDBLab1.dll
